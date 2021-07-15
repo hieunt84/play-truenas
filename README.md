@@ -16,7 +16,7 @@
     2.Install
     3.Config Static IP
       Go to : Network > Interface > em0
-      <p align="center"><img src="https://github.com/hieunt84/learn-rancher/blob/master/images/overview-ancher.png" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/learn-rancher/blob/master/images/overview-ancher.png" /></p>
        
     4.Make pool
       Go to: Storage > Pool > Add
