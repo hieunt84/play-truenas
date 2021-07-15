@@ -22,4 +22,13 @@
       Go to: Storage > Pool > Add
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/add-pool.PNG" /></p>
 
-      
+### Config share SMB
+    ref: https://www.ixsystems.com/blog/windows-smb-shares-on-freenas/
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/sharing-smb.PNG" /></p>
+
+    - shadow copy (default)
+    - permision
+      Go to: Pool > Storage > Pool1 > Windowset > : > Edit Permisions
+    - quotas
+      Go to: Pool > Storage > Pool1 > Windowset > : > User Quotas
+   
