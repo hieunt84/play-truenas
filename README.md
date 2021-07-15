@@ -17,8 +17,9 @@
     3.Config Static IP
       Go to : Network > Interface > em0
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/Config-network.PNG" /></p>
-       
+
     4.Make pool
       Go to: Storage > Pool > Add
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/add-pool.PNG" /></p>
 
       
