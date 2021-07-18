@@ -17,7 +17,7 @@
     2.Install
     3.Config Static IP
       Go to : Network > Interface > em0
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network.PNG" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network2.PNG" /></p>
       Go to : Network > Global Configuration > se DNS & Defaut Gateway
       
     4.Make pool
