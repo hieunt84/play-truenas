@@ -1,5 +1,5 @@
 ### Config share SMB    
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/sharing-smb.png" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/sharing-smb.PNG" /></p>
 
     - Create user/group
       Goto: Account > User > ADD

@@ -17,12 +17,12 @@
     2.Install
     3.Config Static IP
       Go to : Network > Interface > em0
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network.png" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network.PNG" /></p>
       Go to : Network > Global Configuration > se DNS & Defaut Gateway
       
     4.Make pool
       Go to: Storage > Pool > Add
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/add-pool.png" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/add-pool.PNG" /></p>
 
 ### Ref
     https://www.ods.vn/tai-lieu/gioi-thieu-va-huong-dan-cai-dat-he-dieu-hanh-freenas.html
