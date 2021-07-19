@@ -14,7 +14,7 @@
   
 ### Conclusion
     Result result-sharing-iscsi.PNG
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-sharing-iscsi.PNG" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/result-sharing-iscsi.PNG" /></p>
 
 ### Expand volume iscsi
     Server Nas:
