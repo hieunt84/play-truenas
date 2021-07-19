@@ -7,7 +7,9 @@
       vCPUs: 2
       RAM: 8GB
       HDD1: 8GB for os true nas
-      HDD2: 20GB for storage
+      HDD2: 8GB
+      HDD3: 8GB
+      HDD4: 8GB
       Nic1: 1GB
       IP: 172.20.10.110
       root/abcxxx
@@ -26,3 +28,5 @@
 
 ### Ref
     https://www.ods.vn/tai-lieu/gioi-thieu-va-huong-dan-cai-dat-he-dieu-hanh-freenas.html
+    https://www.youtube.com/watch?v=nVRWpV2xyds&list=WL&index=4&t=419s
+    https://www.youtube.com/watch?v=17ZWLxrGrCA
