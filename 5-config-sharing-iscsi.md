@@ -22,38 +22,7 @@
     Client/Initator Window
       Goto: Disk management > Extend Volume
     Client/Initator Linux
-      https://www.golinuxcloud.com/configure-iscsi-target-initiator-targetcli-rhel-centos-7/
-
-### command to using iscsi disk on linux
-    # add disk iscsi
-    iscsiadm --mode discovery \
-    --type sendtargets \
-    --portal 172.20.10.110 \
-    --discover 172.20.10.110:3260
-
-    iscsiadm --mode node \
-    --targetname iqn.2005-10.org.freenas.ctl:iscsi-linux \
-    --login
-   
-    # Check new disk in system
-    lsblk
-    lsscis
-
-    # partion disk
-    fdisk -l
-    fdisk /dev/sdb
-
-    # format command
-    mkfs.ext4 /dev/sdc1
-    
-    # mount
-      mkdir -p /mnt/iscsi-vol
-      vi /etc/fstab
-        UUID=d1982789-cc22-4b8a-a9b8-612411b01526 /mnt/iscsi-vol     ext4   defaults        0 0
-      mount /mnt/iscsi-vol
-
-    # check mount 
-    df-h or lsblk -f
+      Goto: https://github.com/hieunt84/play-linux/blob/master/setup-new-disk/setup-new-disk-iscsi.md
 
 ### Ref
     https://www.youtube.com/watch?v=PBAMCifr1VY    
