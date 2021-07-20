@@ -25,6 +25,6 @@
       Goto: https://github.com/hieunt84/play-linux/blob/master/setup-new-disk/setup-new-disk-iscsi.md
 
 ### Ref
-    - [Ref].(https://www.youtube.com/watch?v=PBAMCifr1VY)
+  [Ref].(https://www.youtube.com/watch?v=PBAMCifr1VY)
 
 - [A. Tổng quan về High Availability](docs/pcmk-ha-overview.md)
