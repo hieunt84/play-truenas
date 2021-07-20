@@ -22,7 +22,7 @@
     Client/Initator Window
       Goto: Disk management > Extend Volume
     Client/Initator Linux
-   - [Goto](https://github.com/hieunt84/play-linux/blob/master/setup-new-disk/setup-new-disk-iscsi.md)
+      Goto: (https://github.com/hieunt84/play-linux/blob/master/setup-new-disk/setup-new-disk-iscsi.md)
 
 ### Ref
    - [Ref](https://www.youtube.com/watch?v=PBAMCifr1VY)
