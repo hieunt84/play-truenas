@@ -1,0 +1,71 @@
+# Created by Nhan Nguyen @Sysadmin102.com
+
+# NextCloud
+=========================================================================================
+iocage console nextcloud
+=========================================================================================
+# Make folder and generate OpenSSL Cert/Key
+
+mkdir -p /usr/local/etc/ssl/nginx
+=========================================================================================
+# Change Directory to nginx
+
+cd /usr/local/etc/ssl/nginx
+=========================================================================================
+# Generte Self-Signed Certificate
+# Change nextcloud to your FQDN or whatever you like
+
+openssl req -x509 -nodes -days 3650 -newkey rsa:4096 -keyout nextcloud.key -out nextcloud.crt
+=========================================================================================
+# Modify permission
+
+chmod 400 /usr/local/etc/ssl/nginx/nextcloud.key
+ls -l /usr/local/etc/ssl/nginx
+=========================================================================================
+# Edit nginx.conf to enforce HTTPS
+# You can still able to access https://0.0.0.0 if you do not have DNS at home 
+
+ee /usr/local/etc/nginx/nginx.conf
+=========================================================================================
+# Paste this under
+# https {
+#   #Basic settings
+#   # -------------
+=========================================================================================
+server {
+    listen      80 default_server;
+    listen [::]:80 default_server;
+    return      301 https://$host$request_uri;
+}
+
+=========================================================================================
+# Edit nextcloud.conf to enforce HTTPS
+
+ee /usr/local/etc/nginx/conf.d/nextcloud.conf
+=========================================================================================
+# Replace
+# server {
+#   listen 80;
+#   server_name _;
+
+# with the below
+
+
+server {
+  listen              0.0.0.0:443 default_server ssl http2;
+  listen              [::]:443 default_server ssl http2;
+  ssl_certificate     "/usr/local/etc/ssl/nginx/nextcloud.crt";
+  ssl_certificate_key "/usr/local/etc/ssl/nginx/nextcloud.key";
+  
+  ssl_session_timeout    120m;
+  ssl_session_cache      shared:ssl:16m;
+  ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+=========================================================================================
+# Add trusted domains
+=========================================================================================
+ee /usr/local/www/nextcloud/config/config.php
+=========================================================================================
+Add your FQDM or IP Address
+1 => 'nextcloud.sysadmin102.tech',
+2 => '192.168.100.102',
+
