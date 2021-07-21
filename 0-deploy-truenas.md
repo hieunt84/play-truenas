@@ -5,11 +5,13 @@
     VM: BSD > FreeBSD 64bit
       vCPUs: 2
       RAM: 8GB
-      HDD1: 16GB for os truenas
-      HDD2: NVMe 18GB for cache
-      HDD2: 16GB
-      HDD3: 16GB
-      HDD4: 16GB
+      Controller IDE: CDROM
+      Controller: ISCI
+        HDD1: 16GB for os truenas
+        HDD2: NVMe 18GB for cache
+        HDD2: 16GB
+        HDD3: 16GB
+        HDD4: 16GB
       Nic1: Bridged
       IP: 172.20.10.110
       root/abc123xxx
