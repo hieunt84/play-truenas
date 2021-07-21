@@ -26,9 +26,12 @@
         - set ip static
         - test changes
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network.PNG" /></p>
-      Goto : Network > Global Configuration > se DNS & Defaut Gateway
+
+    4.Config DNS & Defaut Gateway
+      Goto : Network > Global Configuration
         - set dns
-        - set default gateway      
+        - set default gateway
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network2.PNG" /></p>
     
 ### Ref
     https://www.truenas.com/docs/core/gettingstarted/install/
