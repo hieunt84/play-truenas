@@ -15,8 +15,10 @@
       root/abcxxx
 ### Deploy
     1.Download true nas
-      https://www.truenas.com/download-truenas-core/      
+      https://www.truenas.com/download-truenas-core/
+
     2.Install
+    
     3.Config Static IP
       Go to : Network > Interface > em0
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network2.PNG" /></p>
