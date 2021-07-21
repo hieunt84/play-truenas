@@ -23,7 +23,7 @@
     2.Install
     
     3.Config Static IP
-      Goto : Network > Interface > em0
+      Goto : Network > Interface > em0 > edit
         - uncheck DHCP
         - set ip static
         - test changes
