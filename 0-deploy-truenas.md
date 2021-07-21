@@ -33,7 +33,7 @@
       Goto : Network > Global Configuration
         - set dns
         - set default gateway
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network-2.PNG" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network-3.PNG" /></p>
     
 ### Ref
     https://www.truenas.com/docs/core/gettingstarted/install/
