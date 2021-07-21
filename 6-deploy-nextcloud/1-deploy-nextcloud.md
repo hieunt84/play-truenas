@@ -3,9 +3,10 @@
     deploy nextcloud using plugin
 
 ### Install Plugin
-    - install plugin nextcloud
       Goto: Plugins > Nextcloud > Install
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/install-plugin-nextcloud.PNG" /></p>
+
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/install-plugin-nextcloud-2.PNG" /></p>
 
 ### Manage
       Goto: Plugins > Nextcloud > > > Manage

@@ -20,7 +20,7 @@
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/result-create-pool.PNG" /></p>
   
 ### Conclusion
-    Result creat pool storage.
+    Result create pool storage.
 ### Ref
     https://linuxhint.com/what_is_raidz/
     https://www.youtube.com/watch?v=-AnkHc7N0zM
