@@ -1,5 +1,5 @@
 ### Intro
-    depploy truenas Core
+    deploy TrueNAS CORE
 
 ### Prepare
     VM: BSD > FreeBSD 64bit
