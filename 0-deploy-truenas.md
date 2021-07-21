@@ -11,7 +11,7 @@
       HDD3: 16GB
       HDD4: 16GB
       Nic1: Bridged
-      IP: 172.20.10.110/239
+      IP: 172.20.10.110
       root/abc123xxx
 
 ### Deploy
@@ -31,7 +31,7 @@
       Goto : Network > Global Configuration
         - set dns
         - set default gateway
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network2.PNG" /></p>
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network-2.PNG" /></p>
     
 ### Ref
     https://www.truenas.com/docs/core/gettingstarted/install/
