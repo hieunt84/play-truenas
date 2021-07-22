@@ -9,8 +9,8 @@
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/install-plugin-nextcloud-2.PNG" /></p>
 
       -Wait minitues ...
-      -See file result-install-nextcloud.md
-   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/6-deploy-nextcloud/result-install-nextcloud.md" /></p>    
+   [See file result](https://github.com/hieunt84/play-truenas/blob/master/6-deploy-nextcloud/result-install-nextcloud.md)
+ 
 
 ### Manage
       Goto: Plugins > Nextcloud > > > Manage
