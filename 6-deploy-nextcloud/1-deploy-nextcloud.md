@@ -17,7 +17,7 @@
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/manage-nextcloud.PNG" /></p>
 
 ### Conclusion
-    Open browse in mode Private (loại bỏ cache của trình duyệt)
+    Open browser in mode Private (loại bỏ cache của trình duyệt)
     Access : http://172.20.10.110:8282
     Result deploy nextcloud on truenas
 
