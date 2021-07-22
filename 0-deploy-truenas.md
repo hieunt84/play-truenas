@@ -37,6 +37,7 @@
     
 ### Ref
     https://www.truenas.com/docs/core/gettingstarted/install/
+    https://linuxhint.com/install_nexcloud_freenas/
     https://www.ods.vn/tai-lieu/gioi-thieu-va-huong-dan-cai-dat-he-dieu-hanh-freenas.html
     https://www.youtube.com/watch?v=nVRWpV2xyds&list=WL&index=4&t=419s
     https://www.youtube.com/watch?v=17ZWLxrGrCA
