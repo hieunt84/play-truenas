@@ -10,7 +10,7 @@
 
       -Wait minitues ...
       -See file result-install-nextcloud.md
-   <p align="center"><img src="./6-deploy-nextcloud/result-install-nextcloud.md" /></p>    
+   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/6-deploy-nextcloud/result-install-nextcloud.md" /></p>    
 
 ### Manage
       Goto: Plugins > Nextcloud > > > Manage
