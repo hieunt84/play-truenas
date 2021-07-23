@@ -1,6 +1,6 @@
 
 ### Intro
-    - Expand Poool
+    - Expand Pool
 
 ### Config
     - redcommend 3 disk cấu hình raidZ giống vdev đầu tiên trong pool.
