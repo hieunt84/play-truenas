@@ -2,7 +2,7 @@
     deploy TrueNAS CORE
 
 ### Prepare
-    VM: BSD > FreeBSD 64bit
+    VM by VirtualBox: BSD > FreeBSD 64bit
       vCPUs: 2
       RAM: 8GB
       Controller IDE: CDROM

@@ -1,4 +1,4 @@
-### Config share SMB    
+### Sharing SMB    
     1.Create user/group
       Goto: Account > User > ADD
         - create group first.
@@ -26,7 +26,7 @@
     7.Testing
 
     8.Config permission on demand
-      -Goto: Storage> Pool > Dataset > : Edit Permissions
+      -Goto: Storage> Pool > Dataset > : > Edit Permissions
         - set account admin full control dataset.     
         - remove group @everyone.
         - edit permission group builtin-user : Read.
@@ -35,5 +35,18 @@
       -Using gui on window to config permission on demand.
   <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-permission.PNG" /></p>
 
+    9.Create snapshot for dataset
+      - using for shawdow copies.
+      - creat snapshot manual
+        Goto: Storage > Pool > Dataset > : > Create snapshot
+      - creat snapshot automatically
+        Goto: Tasks > Periodic Snapshot Tasks > ADD > 
+        - seclect dataset
+        - set Schedule
+      - check snapshot
+        Goto: Storage> Pool > Snapshot
+
+
 ### Ref
+    ref: https://www.truenas.com/docs/core/sharing/smb/shadowcopies/
     ref: https://www.ixsystems.com/blog/windows-smb-shares-on-freenas/
