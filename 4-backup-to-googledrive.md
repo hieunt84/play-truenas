@@ -25,4 +25,5 @@
 
 ### Ref
     http://storagegaga.com/cloud-sync-prowess-of-freenas/
+    https://www.truenas.com/docs/core/solutions/optimizations/disasterrecovery/
    
