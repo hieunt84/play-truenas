@@ -35,9 +35,9 @@
         - set default gateway
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network-3.PNG" /></p>
     
-### Ref
-    https://www.truenas.com/docs/core/gettingstarted/install/
-    https://linuxhint.com/install_nexcloud_freenas/
+### Ref    
     https://www.ods.vn/tai-lieu/gioi-thieu-va-huong-dan-cai-dat-he-dieu-hanh-freenas.html
+    https://www.truenas.com/docs/core/gettingstarted/install/
     https://www.youtube.com/watch?v=nVRWpV2xyds&list=WL&index=4&t=419s
     https://www.youtube.com/watch?v=17ZWLxrGrCA
+    https://www.youtube.com/watch?v=J9pHMSaHhiI

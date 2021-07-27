@@ -23,5 +23,7 @@
 
 ### Ref
    - [Ref](https://www.youtube.com/watch?v=Ao0TWnWdN3Y)
-   - [Ref](https://www.youtube.com/watch?v=6mDnBsFxcPc&t=574s)
-   - [Ref](https://linuxhint.com/install_nexcloud_freenas/)
+    https://www.youtube.com/watch?v=6mDnBsFxcPc&t=574s
+    https://linuxhint.com/install_nexcloud_freenas/
+    https://www.youtube.com/watch?v=BU5pjsIfgyk
+    https://www.youtube.com/watch?v=hxSAGY5zRwQ
