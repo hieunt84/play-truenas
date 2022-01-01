@@ -26,3 +26,7 @@
 
 ### Ref
    - [Ref](https://www.youtube.com/watch?v=PBAMCifr1VY)
+   - [Ref](https://ratticon.com/tutorial-how-to-set-up-iscsi-for-esxi-on-freenas-11-2/)
+   - [Ref](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
+   
+

@@ -2,7 +2,7 @@
     deploy TrueNAS CORE
 
 ### Prepare
-    VM by VirtualBox: BSD > FreeBSD 64bit
+    VM by VirtualBox/VMware: BSD > FreeBSD 64bit
       vCPUs: 2
       RAM: 8GB
       Controller IDE: CDROM
@@ -13,8 +13,8 @@
         HDD3: 16GB
         HDD4: 16GB
       Nic1: Bridged
-      IP: 172.20.10.110
-      root/abc123xxx
+      IP: 172.20.10.127
+      root/Hit@2022
 
 ### Deploy
     1.Download true nas
@@ -27,6 +27,8 @@
         - uncheck DHCP
         - set ip static
         - test changes
+        - access new IP
+        - save changes
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/config-network.PNG" /></p>
 
     4.Config DNS & Defaut Gateway

@@ -6,6 +6,7 @@
 
 ### Config
     1.yêu cầu ít nhất 3 disk giống nhau.
+    
     2.Add pool
       Go to: Storage > Pool > Add > Creat new pool
    <p align="center"><img src="https://github.com/hieunt84/play-truenas/blob/master/images/add-pool.PNG" /></p>
